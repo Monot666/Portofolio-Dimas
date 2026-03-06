@@ -91,11 +91,9 @@
         ];
 
         const horizontalImages = [
-            { src: 'https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=500&q=80', title: 'Neon City', desc: 'Background' },
-            { src: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=500&q=80', title: 'Web Dev', desc: 'Frontend' },
-            { src: 'https://images.unsplash.com/photo-1504639725590-34d0984388bd?auto=format&fit=crop&w=500&q=80', title: 'Server', desc: 'Backend' },
-            { src: 'https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=500&q=80', title: 'Retro', desc: 'Game Dev' },
-            { src: 'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=500&q=80', title: 'Hardware', desc: 'IoT' }
+            { src: 'gambar/sertifikat/Sertifikat-dicoding.png', title: 'Dicoding', desc: 'Introduction to Financial Literacy' },
+            { src: 'gambar/sertifikat/Sertifikat-inixindo-Jogja.jpg', title: 'Inixindo', desc: 'Strategi Audit Sistem Berbasis Risiko' },
+            { src: 'gambar/sertifikat/pkkmb.png', title: 'Panitia PKKMB', desc: 'Berperan sebagai Operator dalam PKKMB' },
         ];
 
         function createGalleryItem(item, type) {
