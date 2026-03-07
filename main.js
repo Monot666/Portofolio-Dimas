@@ -94,6 +94,7 @@
             { src: 'gambar/sertifikat/Sertifikat-dicoding.png', title: 'Dicoding', desc: 'Introduction to Financial Literacy' },
             { src: 'gambar/sertifikat/Sertifikat-inixindo-Jogja.jpg', title: 'Inixindo', desc: 'Strategi Audit Sistem Berbasis Risiko' },
             { src: 'gambar/sertifikat/pkkmb.png', title: 'Panitia PKKMB', desc: 'Berperan sebagai Operator dalam PKKMB' },
+            { src: 'gambar/sertifikat/peserta_kompetensi_otkp.jpeg', title: 'Peserta Kompetensi OTKP', desc: 'Mengikuti Perlombaan Kompetensi OTKP Tingkat Kabupaten' },
         ];
 
         function createGalleryItem(item, type) {
