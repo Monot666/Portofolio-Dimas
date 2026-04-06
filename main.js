@@ -96,6 +96,8 @@
             { src: 'gambar/sertifikat/pkkmb.png', title: 'Panitia PKKMB', desc: 'Berperan sebagai Operator dalam PKKMB' },
             { src: 'gambar/sertifikat/peserta_kompetensi_otkp.jpeg', title: 'Peserta Kompetensi OTKP', desc: 'Mengikuti Perlombaan Kompetensi OTKP Tingkat Kabupaten' },
             { src: 'gambar/sertifikat/Mahara_Tech.png', title: 'Mahara-Tech', desc: 'Computer Network Fundamental' },
+            { src: 'gambar/sertifikat/Wadhwani1.png', title: 'Wadhwani Foundation', desc: 'Impactful Writing Skills (Bahasa)' },
+            { src: 'gambar/sertifikat/Wadhwani2.png', title: 'Wadhwani Foundation', desc: 'Effective Speaking and Listening Skills (Bahasa)' },
         ];
 
         function createGalleryItem(item, type) {
